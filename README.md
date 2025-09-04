@@ -1,0 +1,5 @@
+# Trabajos en Pascal
+
+Ejercicios del lenguaje de programacion Pascal, Mejía Pérez José Eduardo 302
+ 
+
